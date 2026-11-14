@@ -1,0 +1,8 @@
+{
+  "python_archive_engine": "VERIFIED",
+  "zip64_and_reproducibility": "VERIFIED",
+  "safe_extraction_and_secret_scan": "VERIFIED",
+  "ffmpeg_mp4_encoding": "VERIFIED",
+  "native_blender_execution": "BLOCKED_NO_BLENDER_BINARY",
+  "github_remote_sync": "LOCAL_SOURCE_FALLBACK"
+}

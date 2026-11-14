@@ -1,0 +1,90 @@
+{
+  "tested_at": "2026-11-14T15:24:51.534107+00:00",
+  "main_archive_clean_install": [
+    {
+      "id": "V01",
+      "name": "File existence verification",
+      "status": "PASSED"
+    },
+    {
+      "id": "V02",
+      "name": "Archive readability test",
+      "status": "PASSED"
+    },
+    {
+      "id": "V03",
+      "name": "Compression integrity test",
+      "status": "PASSED"
+    },
+    {
+      "id": "V04",
+      "name": "CRC verification",
+      "status": "PASSED"
+    },
+    {
+      "id": "V05",
+      "name": "SHA-256 verification",
+      "status": "PASSED"
+    },
+    {
+      "id": "V06",
+      "name": "Manifest validation",
+      "status": "PASSED"
+    },
+    {
+      "id": "V07",
+      "name": "File count verification",
+      "status": "PASSED"
+    },
+    {
+      "id": "V08",
+      "name": "Required file verification",
+      "status": "PASSED"
+    },
+    {
+      "id": "V10",
+      "name": "Unsafe path & ZIP-bomb detection",
+      "status": "PASSED"
+    },
+    {
+      "id": "V11",
+      "name": "Secret scanning",
+      "status": "PASSED"
+    },
+    {
+      "id": "V12",
+      "name": "License verification",
+      "status": "PASSED"
+    },
+    {
+      "id": "V13",
+      "name": "Clean extraction test",
+      "status": "PASSED"
+    },
+    {
+      "id": "V19",
+      "name": "Restoration test",
+      "status": "PASSED"
+    },
+    {
+      "id": "V14",
+      "name": "Installation test",
+      "status": "PASSED"
+    },
+    {
+      "id": "V15",
+      "name": "Import test",
+      "status": "PASSED"
+    },
+    {
+      "id": "V16",
+      "name": "CLI smoke test",
+      "status": "PASSED"
+    },
+    {
+      "id": "V17",
+      "name": "Native Blender integration test",
+      "status": "BLOCKED_NO_BLENDER_BINARY"
+    }
+  ]
+}

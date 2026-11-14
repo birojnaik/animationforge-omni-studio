@@ -1,0 +1,1045 @@
+{
+  "verified_at": "2026-11-14T15:24:51.534107+00:00",
+  "results": [
+    {
+      "archive": "animationforge-omni-studio-main.zip",
+      "sha256": "72ceb5c116563ebf4c77d679f39b8d63ea41f111cf9ffe4b74cdaf52c89a6434",
+      "entry_count": 51,
+      "compressed_size_bytes": 862180,
+      "uncompressed_size_bytes": 1011970,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "PASSED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V15",
+          "name": "Import test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V16",
+          "name": "CLI smoke test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    },
+    {
+      "archive": "animationforge-omni-studio-v23.0.0.zip",
+      "sha256": "e1c987b5d6005ff34de7fb12b88f7ec20771254aa70b3d402faae6f64f37677a",
+      "entry_count": 51,
+      "compressed_size_bytes": 862486,
+      "uncompressed_size_bytes": 1011970,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "PASSED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V15",
+          "name": "Import test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V16",
+          "name": "CLI smoke test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    },
+    {
+      "archive": "animationforge-omni-studio-plugin.zip",
+      "sha256": "26842ba3126e9b5c421a802ecad04d19fd2975f6c5896ca7396def2a02cfe2dd",
+      "entry_count": 4,
+      "compressed_size_bytes": 2170,
+      "uncompressed_size_bytes": 2326,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "PASSED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "NOT_APPLICABLE_NON_SOURCE"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    },
+    {
+      "archive": "animationforge-omni-studio-blender-addon.zip",
+      "sha256": "14076b133396c9347483f066fcf736e850a135f79fb4896bc01aa62fc0f5838b",
+      "entry_count": 4,
+      "compressed_size_bytes": 3966,
+      "uncompressed_size_bytes": 8379,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "INFO_NOT_REQUIRED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "NOT_APPLICABLE_NON_SOURCE"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    },
+    {
+      "archive": "animationforge-omni-studio-render-workers.zip",
+      "sha256": "00dbe0c3fbbef20c76820c39b44bcc4760913153b2e4685ddaafb7eee697d56d",
+      "entry_count": 5,
+      "compressed_size_bytes": 5664,
+      "uncompressed_size_bytes": 14093,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "INFO_NOT_REQUIRED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "NOT_APPLICABLE_NON_SOURCE"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    },
+    {
+      "archive": "animationforge-omni-studio-flamenco.zip",
+      "sha256": "9284a179d18c04b3428575cf35f738944b6e261072d68e3d06e5fd7210746bbe",
+      "entry_count": 3,
+      "compressed_size_bytes": 2573,
+      "uncompressed_size_bytes": 4636,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "INFO_NOT_REQUIRED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "NOT_APPLICABLE_NON_SOURCE"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    },
+    {
+      "archive": "animationforge-omni-studio-examples.zip",
+      "sha256": "cc2a68ad305dbd2d530a0cc0636eb7ecbfec21307538cd649f632b8ee32ce9cf",
+      "entry_count": 15,
+      "compressed_size_bytes": 811031,
+      "uncompressed_size_bytes": 889073,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "PASSED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "NOT_APPLICABLE_NON_SOURCE"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    },
+    {
+      "archive": "animationforge-omni-studio-production-demo.zip",
+      "sha256": "91eb815b2bcf43e705bc0f6ece5083dcf17c4de006aad735a8848253854d8a92",
+      "entry_count": 11,
+      "compressed_size_bytes": 806094,
+      "uncompressed_size_bytes": 881229,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "PASSED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "INFO_OPTIONAL"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "NOT_APPLICABLE_NON_SOURCE"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    },
+    {
+      "archive": "animationforge-omni-studio-recovery.zip",
+      "sha256": "e5efdca55ded2e7151c68e4643187b337a921cc04788e30a709a0644284448aa",
+      "entry_count": 1,
+      "compressed_size_bytes": 399,
+      "uncompressed_size_bytes": 280,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "PASSED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "INFO_OPTIONAL"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "NOT_APPLICABLE_NON_SOURCE"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    },
+    {
+      "archive": "animationforge-omni-studio-v22-to-v23-update.zip",
+      "sha256": "1a3f16d9818aed197a7059d6e14ff850ffbc2631a2e25785a64fa61536db0c5a",
+      "entry_count": 52,
+      "compressed_size_bytes": 861054,
+      "uncompressed_size_bytes": 1012183,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "PASSED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "NOT_APPLICABLE_NON_SOURCE"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    },
+    {
+      "archive": "animationforge-omni-studio-test-reports.zip",
+      "sha256": "e01b23b6a1b6e5e7218022d25e67ddb51a3d80fe3f54e8d8fd2f2dd29a599c4f",
+      "entry_count": 18,
+      "compressed_size_bytes": 14884,
+      "uncompressed_size_bytes": 127546,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "PASSED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "INFO_OPTIONAL"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "NOT_APPLICABLE_NON_SOURCE"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    },
+    {
+      "archive": "animationforge-omni-studio-v23.0.0-complete.zip",
+      "sha256": "4783e274974dc292164aa8af85f61e5005aa9ff15164da3a5729384e8b3ba64b",
+      "entry_count": 70,
+      "compressed_size_bytes": 881207,
+      "uncompressed_size_bytes": 1148063,
+      "overall": "VERIFIED",
+      "checks": [
+        {
+          "id": "V01",
+          "name": "File existence verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V02",
+          "name": "Archive readability test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V03",
+          "name": "Compression integrity test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V04",
+          "name": "CRC verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V05",
+          "name": "SHA-256 verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V06",
+          "name": "Manifest validation",
+          "status": "PASSED"
+        },
+        {
+          "id": "V07",
+          "name": "File count verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V08",
+          "name": "Required file verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V10",
+          "name": "Unsafe path & ZIP-bomb detection",
+          "status": "PASSED"
+        },
+        {
+          "id": "V11",
+          "name": "Secret scanning",
+          "status": "PASSED"
+        },
+        {
+          "id": "V12",
+          "name": "License verification",
+          "status": "PASSED"
+        },
+        {
+          "id": "V13",
+          "name": "Clean extraction test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V19",
+          "name": "Restoration test",
+          "status": "PASSED"
+        },
+        {
+          "id": "V14",
+          "name": "Installation test",
+          "status": "NOT_APPLICABLE_NON_SOURCE"
+        },
+        {
+          "id": "V17",
+          "name": "Native Blender integration test",
+          "status": "BLOCKED_NO_BLENDER_BINARY"
+        }
+      ]
+    }
+  ]
+}

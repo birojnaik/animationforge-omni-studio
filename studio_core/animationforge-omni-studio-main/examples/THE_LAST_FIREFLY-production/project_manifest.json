@@ -1,0 +1,12 @@
+{
+  "project": "THE LAST FIREFLY",
+  "duration_seconds": 6.0,
+  "fps": 24,
+  "frames": 144,
+  "preview_resolution": "960x540",
+  "blender_scene_script": "05_animation/the_last_firefly_blender_scene.py",
+  "audio_track": "11_audio/the_last_firefly_score.wav",
+  "playable_mp4": "13_final_delivery/the_last_firefly_960x540_24fps.mp4",
+  "mp4_sha256": "f193b4421c82a6bae69f2cd06fddae32cdc32a074d068a76782998bf405b3e18",
+  "note": "Rendered 144 frames @ 24fps (960x540) with stereo synthesized audio via FFmpeg."
+}

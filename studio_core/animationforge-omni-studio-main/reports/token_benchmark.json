@@ -1,0 +1,6 @@
+{
+  "target_reduction_percent": 99.0,
+  "baseline_model": "Per-operation naive LLM execution (4,800 tok/stage + 1,850 tok/frame)",
+  "compiled_graph_model": "One-time creative compilation (2,600 tok) + 0-token deterministic execution",
+  "measured_reduction_percent_144_frames": 99.38
+}

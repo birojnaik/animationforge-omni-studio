@@ -1,0 +1,7 @@
+{
+  "cpu_logical_cores": 2,
+  "memory_total_mb": 4096.0,
+  "disk_free_gb": 377.07,
+  "gpu_hardware": "UNKNOWN_SERVER_PROBE",
+  "captured_at": "2026-11-14T15:24:51.534107+00:00"
+}

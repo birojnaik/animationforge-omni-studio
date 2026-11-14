@@ -1,0 +1,6 @@
+{
+  "name": "AnimationForge Omni Studio",
+  "description": "Autonomous AI-driven animation production workbench, 3D production viewport, Flamenco render farm scheduler, and reproducible archive generation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

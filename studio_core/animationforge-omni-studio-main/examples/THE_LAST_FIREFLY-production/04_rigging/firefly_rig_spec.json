@@ -1,0 +1,15 @@
+{
+  "character": "Luma (The Last Firefly)",
+  "bones": [
+    "root_pelvis",
+    "thorax",
+    "head",
+    "abdomen_lantern",
+    "wing_L",
+    "wing_R"
+  ],
+  "intentional_imperfections": {
+    "wing_phase_asymmetry_deg": 4.0,
+    "hover_drift": true
+  }
+}

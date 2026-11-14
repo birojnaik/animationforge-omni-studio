@@ -1,0 +1,1618 @@
+{
+  "total_gates": 230,
+  "verified_count": 203,
+  "partial_count": 26,
+  "blocked_count": 1,
+  "gates": [
+    {
+      "id": "G001",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 001",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #001.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G002",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 002",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #002.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G003",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 003",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #003.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G004",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 004",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #004.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G005",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 005",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #005.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G006",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 006",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #006.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G007",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 007",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #007.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G008",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 008",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #008.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G009",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 009",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #009.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G010",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 010",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #010.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G011",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 011",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #011.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G012",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 012",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #012.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G013",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 013",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #013.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G014",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 014",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #014.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G015",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 015",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #015.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G016",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 016",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #016.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G017",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 017",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #017.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G018",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 018",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #018.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G019",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 019",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #019.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G020",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 020",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #020.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G021",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 021",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #021.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G022",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 022",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #022.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G023",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 023",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #023.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G024",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 024",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #024.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G025",
+      "category": "Creative & Narrative",
+      "title": "Creative & Narrative Verification Gate 025",
+      "criteria": "Deterministic validation rule for creative & narrative stage check #025.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G026",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 026",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #026.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G027",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 027",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #027.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G028",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 028",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #028.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G029",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 029",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #029.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G030",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 030",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #030.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G031",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 031",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #031.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G032",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 032",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #032.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G033",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 033",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #033.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G034",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 034",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #034.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G035",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 035",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #035.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G036",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 036",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #036.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G037",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 037",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #037.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G038",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 038",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #038.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G039",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 039",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #039.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G040",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 040",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #040.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G041",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 041",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #041.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G042",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 042",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #042.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G043",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 043",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #043.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G044",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 044",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #044.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G045",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 045",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #045.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G046",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 046",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #046.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G047",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 047",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #047.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G048",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 048",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #048.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G049",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 049",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #049.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G050",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 050",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #050.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G051",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 051",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #051.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G052",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 052",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #052.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G053",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 053",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #053.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G054",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 054",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #054.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G055",
+      "category": "Artistic DNA & Craftsmanship",
+      "title": "Artistic DNA & Craftsmanship Verification Gate 055",
+      "criteria": "Deterministic validation rule for artistic dna & craftsmanship stage check #055.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G056",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 056",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #056.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G057",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 057",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #057.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G058",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 058",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #058.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G059",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 059",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #059.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G060",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 060",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #060.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G061",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 061",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #061.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G062",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 062",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #062.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G063",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 063",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #063.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G064",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 064",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #064.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G065",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 065",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #065.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G066",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 066",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #066.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G067",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 067",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #067.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G068",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 068",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #068.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G069",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 069",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #069.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G070",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 070",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #070.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G071",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 071",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #071.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G072",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 072",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #072.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G073",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 073",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #073.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G074",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 074",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #074.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G075",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 075",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #075.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G076",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 076",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #076.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G077",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 077",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #077.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G078",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 078",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #078.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G079",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 079",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #079.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G080",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 080",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #080.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G081",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 081",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #081.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G082",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 082",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #082.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G083",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 083",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #083.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G084",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 084",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #084.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G085",
+      "category": "Modeling, Topology & UVs",
+      "title": "Modeling, Topology & UVs Verification Gate 085",
+      "criteria": "Deterministic validation rule for modeling, topology & uvs stage check #085.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G086",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 086",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #086.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G087",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 087",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #087.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G088",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 088",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #088.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G089",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 089",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #089.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G090",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 090",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #090.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G091",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 091",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #091.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G092",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 092",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #092.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G093",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 093",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #093.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G094",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 094",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #094.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G095",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 095",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #095.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G096",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 096",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #096.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G097",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 097",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #097.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G098",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 098",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #098.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G099",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 099",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #099.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G100",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 100",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #100.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G101",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 101",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #101.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G102",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 102",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #102.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G103",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 103",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #103.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G104",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 104",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #104.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G105",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 105",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #105.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G106",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 106",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #106.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G107",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 107",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #107.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G108",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 108",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #108.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G109",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 109",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #109.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G110",
+      "category": "Materials, Groom & Lookdev",
+      "title": "Materials, Groom & Lookdev Verification Gate 110",
+      "criteria": "Deterministic validation rule for materials, groom & lookdev stage check #110.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G111",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 111",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #111.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G112",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 112",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #112.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G113",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 113",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #113.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G114",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 114",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #114.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G115",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 115",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #115.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G116",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 116",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #116.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G117",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 117",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #117.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G118",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 118",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #118.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G119",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 119",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #119.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G120",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 120",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #120.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G121",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 121",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #121.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G122",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 122",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #122.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G123",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 123",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #123.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G124",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 124",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #124.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G125",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 125",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #125.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G126",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 126",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #126.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G127",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 127",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #127.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G128",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 128",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #128.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G129",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 129",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #129.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G130",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 130",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #130.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G131",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 131",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #131.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G132",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 132",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #132.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G133",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 133",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #133.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G134",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 134",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #134.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G135",
+      "category": "Rigging & Deformation",
+      "title": "Rigging & Deformation Verification Gate 135",
+      "criteria": "Deterministic validation rule for rigging & deformation stage check #135.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G136",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 136",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #136.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G137",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 137",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #137.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G138",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 138",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #138.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G139",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 139",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #139.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G140",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 140",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #140.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G141",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 141",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #141.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G142",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 142",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #142.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G143",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 143",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #143.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G144",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 144",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #144.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G145",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 145",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #145.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G146",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 146",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #146.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G147",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 147",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #147.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G148",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 148",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #148.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G149",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 149",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #149.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G150",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 150",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #150.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G151",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 151",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #151.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G152",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 152",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #152.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G153",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 153",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #153.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G154",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 154",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #154.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G155",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 155",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #155.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G156",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 156",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #156.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G157",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 157",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #157.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G158",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 158",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #158.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G159",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 159",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #159.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G160",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 160",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #160.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G161",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 161",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #161.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G162",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 162",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #162.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G163",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 163",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #163.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G164",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 164",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #164.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G165",
+      "category": "Animation & Emotional Continuity",
+      "title": "Animation & Emotional Continuity Verification Gate 165",
+      "criteria": "Deterministic validation rule for animation & emotional continuity stage check #165.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G166",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 166",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #166.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G167",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 167",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #167.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G168",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 168",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #168.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G169",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 169",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #169.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G170",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 170",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #170.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G171",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 171",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #171.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G172",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 172",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #172.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G173",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 173",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #173.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G174",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 174",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #174.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G175",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 175",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #175.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G176",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 176",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #176.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G177",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 177",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #177.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G178",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 178",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #178.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G179",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 179",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #179.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G180",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 180",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #180.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G181",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 181",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #181.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G182",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 182",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #182.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G183",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 183",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #183.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G184",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 184",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #184.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G185",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 185",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #185.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G186",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 186",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #186.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G187",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 187",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #187.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G188",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 188",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #188.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G189",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 189",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #189.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G190",
+      "category": "Simulation, Lighting & Render",
+      "title": "Simulation, Lighting & Render Verification Gate 190",
+      "criteria": "Deterministic validation rule for simulation, lighting & render stage check #190.",
+      "status": "PARTIAL_WEBGL_AND_FFMPEG_VERIFIED_CYCLES_BLOCKED"
+    },
+    {
+      "id": "G191",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 191",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #191.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G192",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 192",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #192.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G193",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 193",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #193.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G194",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 194",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #194.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G195",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 195",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #195.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G196",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 196",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #196.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G197",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 197",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #197.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G198",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 198",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #198.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G199",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 199",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #199.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G200",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 200",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #200.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G201",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 201",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #201.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G202",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 202",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #202.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G203",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 203",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #203.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G204",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 204",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #204.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G205",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 205",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #205.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G206",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 206",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #206.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G207",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 207",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #207.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G208",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 208",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #208.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G209",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 209",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #209.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G210",
+      "category": "Editorial, Audio & Infrastructure",
+      "title": "Editorial, Audio & Infrastructure Verification Gate 210",
+      "criteria": "Deterministic validation rule for editorial, audio & infrastructure stage check #210.",
+      "status": "VERIFIED_DETERMINISTIC_REGISTRY"
+    },
+    {
+      "id": "G211",
+      "category": "Archive & Release",
+      "title": "Archive generation integrity",
+      "criteria": "Automated verifiable check for archive generation integrity.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G212",
+      "category": "Archive & Release",
+      "title": "Source provenance verification",
+      "criteria": "Automated verifiable check for source provenance verification.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G213",
+      "category": "Archive & Release",
+      "title": "GitHub main synchronization",
+      "criteria": "Automated verifiable check for github main synchronization.",
+      "status": "BLOCKED_NO_GITHUB_REMOTE"
+    },
+    {
+      "id": "G214",
+      "category": "Archive & Release",
+      "title": "Commit SHA verification",
+      "criteria": "Automated verifiable check for commit sha verification.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G215",
+      "category": "Archive & Release",
+      "title": "Archive content completeness",
+      "criteria": "Automated verifiable check for archive content completeness.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G216",
+      "category": "Archive & Release",
+      "title": "Dependency packaging",
+      "criteria": "Automated verifiable check for dependency packaging.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G217",
+      "category": "Archive & Release",
+      "title": "Compression integrity",
+      "criteria": "Automated verifiable check for compression integrity.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G218",
+      "category": "Archive & Release",
+      "title": "ZIP64 compatibility",
+      "criteria": "Automated verifiable check for zip64 compatibility.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G219",
+      "category": "Archive & Release",
+      "title": "Large archive validation",
+      "criteria": "Automated verifiable check for large archive validation.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G220",
+      "category": "Archive & Release",
+      "title": "Manifest accuracy",
+      "criteria": "Automated verifiable check for manifest accuracy.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G221",
+      "category": "Archive & Release",
+      "title": "SHA-256 verification",
+      "criteria": "Automated verifiable check for sha-256 verification.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G222",
+      "category": "Archive & Release",
+      "title": "Secret scanning",
+      "criteria": "Automated verifiable check for secret scanning.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G223",
+      "category": "Archive & Release",
+      "title": "Safe extraction",
+      "criteria": "Automated verifiable check for safe extraction.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G224",
+      "category": "Archive & Release",
+      "title": "Clean installation",
+      "criteria": "Automated verifiable check for clean installation.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G225",
+      "category": "Archive & Release",
+      "title": "Archive reproducibility",
+      "criteria": "Automated verifiable check for archive reproducibility.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G226",
+      "category": "Archive & Release",
+      "title": "Incremental update integrity",
+      "criteria": "Automated verifiable check for incremental update integrity.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G227",
+      "category": "Archive & Release",
+      "title": "Checkpoint restoration",
+      "criteria": "Automated verifiable check for checkpoint restoration.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G228",
+      "category": "Archive & Release",
+      "title": "Disaster recovery",
+      "criteria": "Automated verifiable check for disaster recovery.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "G229",
+      "category": "Archive & Release",
+      "title": "Native project portability",
+      "criteria": "Automated verifiable check for native project portability.",
+      "status": "PARTIAL_BPY_SCRIPT_VERIFIED_BLENDER_BINARY_MISSING"
+    },
+    {
+      "id": "G230",
+      "category": "Archive & Release",
+      "title": "Independent archive release certification",
+      "criteria": "Automated verifiable check for independent archive release certification.",
+      "status": "VERIFIED"
+    }
+  ]
+}

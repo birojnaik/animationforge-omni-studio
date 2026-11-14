@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "animationforge-omni-studio"
+version = "23.0.0"
+description = "Universal autonomous AI-driven animation production studio with reproducible archive engine."
+readme = "README.md"
+license = {text = "Apache-2.0"}
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+animationforge = "animationforge.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

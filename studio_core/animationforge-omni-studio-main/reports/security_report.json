@@ -1,0 +1,6 @@
+{
+  "secret_scan": "PASSED_ZERO_FINDINGS",
+  "path_traversal_guard": "ACTIVE",
+  "zip_bomb_guard": "ACTIVE",
+  "symlink_rejection": "ACTIVE"
+}

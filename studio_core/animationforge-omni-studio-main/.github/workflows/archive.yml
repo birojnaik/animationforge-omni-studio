@@ -1,0 +1,26 @@
+name: AnimationForge Archive Generation
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  release:
+    types: [ published ]
+
+jobs:
+  build-and-verify-archives:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run Archive Engine Unit Tests
+        run: python3 -m unittest discover -s tests
+      - name: Generate Verified Distribution Archives
+        run: PYTHONPATH=src python3 -m animationforge.cli archive-cmd --action GENERATE_ALL_RELEASES --source . --out-dir ./dist_archives --db ./studio.sqlite
+      - name: Upload Verified Archive Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: animationforge-omni-studio-archives
+          path: dist_archives/

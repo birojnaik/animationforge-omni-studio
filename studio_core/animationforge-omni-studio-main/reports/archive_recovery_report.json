@@ -1,0 +1,5 @@
+{
+  "corruption_detection": "VERIFIED",
+  "checksum_mismatch_detection": "VERIFIED",
+  "checkpoint_rebuild": "VERIFIED"
+}

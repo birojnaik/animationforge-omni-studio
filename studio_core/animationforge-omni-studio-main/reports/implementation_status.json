@@ -1,0 +1,18 @@
+{
+  "software_version": "23.0.0",
+  "schema_version": "23.0.0",
+  "implemented_subsystems": [
+    "16 Core Orchestration Agents Registry",
+    "540 Logical Production Roles Registry",
+    "7 Architecture Layers",
+    "31-Stage Production Graph Compiler",
+    "SQLite Persistent Production Database & Checkpointing",
+    "128-Slot Flamenco Logical Scheduler",
+    "Universal Autonomous Archive Engine (15 Modules)",
+    "THE LAST FIREFLY 6s 144-Frame Procedural Demo + FFmpeg MP4"
+  ],
+  "blocked_external_runtimes": [
+    "Blender native binary execution (not installed on host)",
+    null
+  ]
+}

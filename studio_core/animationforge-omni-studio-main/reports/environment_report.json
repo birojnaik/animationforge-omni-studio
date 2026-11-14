@@ -1,0 +1,42 @@
+{
+  "cpu_logical_cores": 2,
+  "memory_total_mb": 4096.0,
+  "disk_free_gb": 377.07,
+  "tools": {
+    "python3": {
+      "available": true,
+      "version": "3.10.12"
+    },
+    "ffmpeg": {
+      "available": true,
+      "path": "/usr/bin/ffmpeg"
+    },
+    "git": {
+      "available": true,
+      "path": "/usr/bin/git",
+      "commit_sha": "UNINITIALIZED",
+      "branch": "NONE"
+    },
+    "blender": {
+      "available": false,
+      "path": "BLOCKED: binary not installed on host"
+    },
+    "gh": {
+      "available": false,
+      "path": "BLOCKED: GitHub CLI not installed"
+    }
+  },
+  "flamenco_config": {
+    "logical_worker_slots": 128,
+    "groups": 8,
+    "workers_per_group": 16,
+    "autoscaling": "DISABLED",
+    "failed_frame_reassignment": "ENABLED",
+    "default_resolution": "4096x2160",
+    "default_fps": 24,
+    "master_format": "OpenEXR",
+    "target_mean_frame_seconds": 5.0,
+    "target_sustained_fps": 24.0,
+    "physical_host_note": "Logical 128-slot Flamenco queue is configured; physical host provides 2 logical CPU cores and no Blender binary."
+  }
+}

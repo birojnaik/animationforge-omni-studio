@@ -1,0 +1,12 @@
+{
+  "name": "animationforge-omni-studio",
+  "version": "23.0.0",
+  "schema_version": "23.0.0",
+  "license": "Apache-2.0",
+  "core_agents": 16,
+  "logical_production_roles": 540,
+  "architecture_layers": 7,
+  "quality_gates": 230,
+  "flamenco_worker_slots": 128,
+  "primary_deliverable": "animationforge-omni-studio-main.zip"
+}

@@ -1,0 +1,15 @@
+{
+  "preview_demo": {
+    "project": "THE LAST FIREFLY",
+    "resolution": "960x540",
+    "fps": 24,
+    "frames": 144,
+    "duration_seconds": 6.0,
+    "encoder": "ffmpeg libx264 + aac"
+  },
+  "feature_film_4k_target": {
+    "resolution": "4096x2160",
+    "target_mean_frame_seconds": 5.0,
+    "measured_status": "UNVERIFIED_TARGET_NO_BLENDER_CYCLES_BINARY"
+  }
+}

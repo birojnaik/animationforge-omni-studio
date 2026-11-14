@@ -1,0 +1,13 @@
+{
+  "logical_worker_slots": 128,
+  "groups": 8,
+  "workers_per_group": 16,
+  "autoscaling": "DISABLED",
+  "failed_frame_reassignment": "ENABLED",
+  "default_resolution": "4096x2160",
+  "default_fps": 24,
+  "master_format": "OpenEXR",
+  "target_mean_frame_seconds": 5.0,
+  "target_sustained_fps": 24.0,
+  "physical_host_note": "Logical 128-slot Flamenco queue is configured; physical host provides 2 logical CPU cores and no Blender binary."
+}

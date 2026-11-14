@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "detected_imports": [
+      "archive_recovery",
+      "bmesh",
+      "bpy",
+      "catalog",
+      "checkpoint_archive",
+      "compression",
+      "dependency_scanner",
+      "executor",
+      "firefly_scene_builder",
+      "flamenco_client",
+      "generator",
+      "graph_compiler",
+      "incremental_archive",
+      "installation_test",
+      "integrity",
+      "manifest_builder",
+      "release_packager",
+      "render_firefly",
+      "reproducibility",
+      "restoration",
+      "safe_extraction",
+      "secret_scanner",
+      "source_snapshot"
+    ],
+    "external_applications": [
+      {
+        "name": "python3",
+        "status": "AVAILABLE",
+        "version": "3.10.12"
+      },
+      {
+        "name": "ffmpeg",
+        "status": "AVAILABLE",
+        "path": "/usr/bin/ffmpeg"
+      },
+      {
+        "name": "git",
+        "status": "AVAILABLE",
+        "path": "/usr/bin/git"
+      },
+      {
+        "name": "blender",
+        "status": "EXTERNAL_REQUIRED_BLOCKED",
+        "path": "NOT_INSTALLED"
+      }
+    ],
+    "portable_relative_paths": true
+  },
+  "archives": [
+    "animationforge-omni-studio-main.zip",
+    "animationforge-omni-studio-v23.0.0.zip",
+    "animationforge-omni-studio-plugin.zip",
+    "animationforge-omni-studio-blender-addon.zip",
+    "animationforge-omni-studio-render-workers.zip",
+    "animationforge-omni-studio-flamenco.zip",
+    "animationforge-omni-studio-examples.zip",
+    "animationforge-omni-studio-production-demo.zip",
+    "animationforge-omni-studio-recovery.zip",
+    "animationforge-omni-studio-v22-to-v23-update.zip",
+    "animationforge-omni-studio-test-reports.zip",
+    "animationforge-omni-studio-v23.0.0-complete.zip"
+  ]
+}
